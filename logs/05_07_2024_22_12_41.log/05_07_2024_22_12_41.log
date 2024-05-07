@@ -1,0 +1,7 @@
+[2024-05-07 22:12:44,450 ] 24 rootINFO-Enter the data ingestion method or component
+[2024-05-07 22:12:44,941 ] 27 rootINFO-read the data set
+[2024-05-07 22:12:45,791 ] 31 rootINFO-train test split initaited
+[2024-05-07 22:12:46,890 ] 36 rootINFO-ingesion of the data completed
+[2024-05-07 22:12:47,561 ] 76 rootINFO-read train and test data complete
+[2024-05-07 22:12:47,561 ] 54 rootINFO-Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[2024-05-07 22:12:47,562 ] 55 rootINFO-Numerical columns: ['writing_score', 'reading_score']

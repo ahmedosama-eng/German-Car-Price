@@ -1,0 +1,4 @@
+[2024-05-07 22:09:01,398 ] 24 rootINFO-Enter the data ingestion method or component
+[2024-05-07 22:09:01,891 ] 27 rootINFO-read the data set
+[2024-05-07 22:09:02,747 ] 31 rootINFO-train test split initaited
+[2024-05-07 22:09:03,641 ] 36 rootINFO-ingesion of the data completed

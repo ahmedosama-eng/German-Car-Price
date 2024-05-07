@@ -46,3 +46,12 @@ def evaluate_model (X_train,y_train,X_test,y_test,models,param):
         raise CustomException(e,sys)
     
 
+def is_canot_float_convertible(value):
+    try:
+        float(value)
+        return False
+    except (ValueError, TypeError):
+        return True
+
+    
+
